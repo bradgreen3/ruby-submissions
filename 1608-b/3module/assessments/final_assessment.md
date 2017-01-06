@@ -22,7 +22,7 @@ repo:
 repo:
 
 ### David Junta
-repo: https://github.com/dijital2016/module_3_assessment
+repo:
 
 ### Erin Pintozzi
 repo:
@@ -52,10 +52,10 @@ repo:
 repo:
 
 ### Lee Saville
-repo: https://github.com/lsaville/module_3_assessment
+repo:
 
 ### Vido Seaver
 repo:
 
 ### Brad Green
-repo:
+repo: https://github.com/bradgreen3/module_3_assessment
